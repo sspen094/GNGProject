@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Unreal/GNGProject/Content/VRTemplate/Blueprints/Grabable_plate.uasset",
+				"C:/Unreal/GNGProject/Content/VRTemplate/Maps/VRTemplateMap_BuiltData.uasset",
+				"C:/Unreal/GNGProject/Content/VRTemplate/Maps/VRTemplateMap.umap",
+				"C:/Unreal/GNGProject/Content/MSPresets/M_MS_Default_Material/M_MS_Default_Material.uasset",
+				"C:/Unreal/GNGProject/Content/Megascans/3D_Assets/Wooden_Table_vghpabdga/MI_Wooden_Table_vghpabdga_1K.uasset",
+				"C:/Unreal/GNGProject/Content/Megascans/3D_Assets/Concrete_Planter_Plate_vbihbi1jw/S_Concrete_Planter_Plate_vbihbi1jw_lod5_Var1.uasset",
+				"C:/Unreal/GNGProject/Content/Megascans/3D_Assets/Wooden_Table_vghpabdga/S_Wooden_Table_vghpabdga_lod5_Var1.uasset"
+			]
+		}
+	]
+}
