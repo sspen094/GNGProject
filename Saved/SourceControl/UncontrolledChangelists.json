@@ -19,12 +19,9 @@
 				"C:/Unreal/GNGProject/Content/VRTemplate/Materials/M_GridRotation.uasset",
 				"C:/Unreal/GNGProject/Content/VRTemplate/Materials/wall.uasset",
 				"C:/Unreal/GNGProject/Content/VRTemplate/Materials/ceiling.uasset",
-				"C:/Unreal/GNGProject/Content/Megascans/3D_Assets/Chrome_Polished.uasset",
-				"C:/Unreal/GNGProject/Content/Megascans/3D_Assets/FbxScene_sink.uasset",
 				"C:/Unreal/GNGProject/Content/Megascans/3D_Assets/faucet.uasset",
 				"C:/Unreal/GNGProject/Content/Megascans/3D_Assets/sink.uasset",
 				"C:/Unreal/GNGProject/Content/Megascans/3D_Assets/sink_sink_007.uasset",
-				"C:/Unreal/GNGProject/Content/Megascans/3D_Assets/sink_sink_005.uasset",
 				"C:/Unreal/GNGProject/Content/Megascans/3D_Assets/sink_sink_004.uasset",
 				"C:/Unreal/GNGProject/Content/Megascans/3D_Assets/InteriorDoor_Diffuce.uasset",
 				"C:/Unreal/GNGProject/Content/Megascans/3D_Assets/InteriorDoor_SPEC.uasset",
@@ -44,7 +41,13 @@
 				"C:/Unreal/GNGProject/Content/Megascans/3D_Assets/mesh_12.uasset",
 				"C:/Unreal/GNGProject/Content/Megascans/3D_Assets/mesh_13.uasset",
 				"C:/Unreal/GNGProject/Content/Megascans/3D_Assets/mesh_7.uasset",
-				"C:/Unreal/GNGProject/Content/Megascans/3D_Assets/mesh_8.uasset"
+				"C:/Unreal/GNGProject/Content/Megascans/3D_Assets/mesh_8.uasset",
+				"C:/Unreal/GNGProject/Content/VRTemplate/Materials/BlackMenu.uasset",
+				"C:/Unreal/GNGProject/Content/VRTemplate/Materials/GlowingText.uasset",
+				"C:/Unreal/GNGProject/Content/VRTemplate/Materials/BlueIndicator.uasset",
+				"C:/Unreal/GNGProject/Content/Megascans/3D_Assets/Chrome_Polished.uasset",
+				"C:/Unreal/GNGProject/Content/Megascans/3D_Assets/FbxScene_sink.uasset",
+				"C:/Unreal/GNGProject/Content/Megascans/3D_Assets/sink_sink_005.uasset"
 			]
 		}
 	]
