@@ -1,6 +1,8 @@
-2023/10/14-16:46:03.159 133c Creating DB C:/Unreal/GNGProject/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb since it was missing.
-2023/10/14-16:46:03.169 133c Reusing MANIFEST C:/Unreal/GNGProject/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
-2023/10/14-16:48:51.030 5eb4 Level-0 table #5: started
-2023/10/14-16:48:51.043 5eb4 Level-0 table #5: 1167 bytes OK
-2023/10/14-16:48:51.044 5eb4 Delete type=0 #3
-2023/10/14-16:48:51.045 5eb4 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/11/11-17:39:23.362 226c Reusing MANIFEST C:/Unreal/GNGProject/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/11/11-17:39:23.362 226c Recovering log #4
+2023/11/11-17:39:23.363 226c Reusing old log C:/Unreal/GNGProject/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/000004.log 
+2023/11/11-17:51:01.947 435c Level-0 table #8: started
+2023/11/11-17:51:01.947 435c Level-0 table #8: 0 bytes OK
+2023/11/11-17:51:01.949 435c Delete type=0 #4
+2023/11/11-17:51:01.952 435c Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/11/11-17:51:01.953 435c Manual compaction at level-1 from (begin) .. (end); will stop at (end)

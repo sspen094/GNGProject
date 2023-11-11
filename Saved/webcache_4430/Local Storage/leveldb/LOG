@@ -1,3 +1,6 @@
-2023/10/15-13:32:12.109 50c Reusing MANIFEST C:/Unreal/GNGProject/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
-2023/10/15-13:32:12.116 50c Recovering log #3
-2023/10/15-13:32:12.116 50c Reusing old log C:/Unreal/GNGProject/Saved/webcache_4430\Local Storage\leveldb/000003.log 
+2023/11/11-17:39:12.868 56d4 Reusing MANIFEST C:/Unreal/GNGProject/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2023/11/11-17:39:12.875 56d4 Recovering log #3
+2023/11/11-17:39:12.877 56d4 Reusing old log C:/Unreal/GNGProject/Saved/webcache_4430\Local Storage\leveldb/000003.log 
+2023/11/11-17:39:28.329 56d4 Level-0 table #5: started
+2023/11/11-17:39:28.333 56d4 Level-0 table #5: 13681 bytes OK
+2023/11/11-17:39:28.335 56d4 Delete type=0 #3
